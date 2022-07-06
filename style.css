@@ -134,7 +134,9 @@ body{
             /* section-3 Start */
 
 #donate-plane{
-    height: 80vh;
+    height: 100vh;
+    background-color: #8989890c;
+    margin: 20px 0px;
 
 }
 .donate-plane-parent{
@@ -214,6 +216,7 @@ color: #707070;
 #section-3{
     display: flex;
     height: 70vh;
+   
 
 }
 
@@ -271,31 +274,28 @@ color: #707070;
 
 
 #section-05{
-    height: 70vh;
-    background-color: #ffffff;
+    height: 72vh;
+    background-color: #9999990f;
     margin-top: 300px;
 
 }
 .div{
     text-align: center;
-    
     position: relative;
-    margin: 0px 160px;
+    margin: 10px 160px;
 }
 .div-h1{
     margin-top: 50px;
 }
 .div-p{
     font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 28px;
-margin-bottom: 25px;
-
-text-align: center;
-
-color: #707070;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 25px;
+    text-align: center;
+    color: #707070;
 }
 .div-2{
     background-color: #FFF4D6;
